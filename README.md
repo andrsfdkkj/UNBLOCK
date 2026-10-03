@@ -4,9 +4,9 @@
 
 > **Formação, competição e disseminação de conhecimento em tecnologia.**
 
-Este repositório reúne parte da minha trajetória dentro da **UNBLOCK**, projeto de extensão vinculado à **[Universidade de Brasília (UnB)](https://unb.br/campi/darcy-ribeiro)**, voltado à formação de estudantes para competições acadêmicas e tecnológicas, além da disseminação de conhecimentos relacionados à programação, robótica e resolução de problemas.
+Este repositório reúne parte da minha trajetória dentro da **UNBLOCK**, projeto de extensão vinculado à **Universidade de Brasília (UnB)**, voltado à formação de estudantes para competições acadêmicas e tecnológicas, além da disseminação de conhecimentos relacionados à programação, robótica e resolução de problemas.
 
-A iniciativa é conduzida por **[Modesto](https://github.com/Leppyzin)**, estudante de Engenharia da Computação, na frente de **Programação Competitiva**, e por **Marcos**, estudante de Engenharia Mecatrônica, na frente de **Robótica Competitiva**. Ambos são estudantes da **[UnB — Campus Darcy Ribeiro](https://unb.br/campi/darcy-ribeiro)** e atuam na formação e orientação dos participantes.
+A iniciativa é conduzida por **[Modesto](https://github.com/Leppyzin)**, estudante de Engenharia da Computação, na frente de **Programação Competitiva**, e por **[Marcos](https://github.com/Marcos-VSS)**, estudante de Engenharia Mecatrônica, na frente de **Robótica Competitiva**. Ambos são estudantes da **[UnB — Campus Darcy Ribeiro](https://unb.br/campi/darcy-ribeiro)** e atuam na formação e orientação dos participantes.
 
 O projeto busca aproximar estudantes do ensino médio do ambiente universitário e competitivo, desenvolvendo não apenas habilidades técnicas, mas também raciocínio lógico, trabalho em equipe, autonomia e capacidade de resolver problemas.
 
@@ -50,4 +50,4 @@ A proposta é manter o conteúdo em constante evolução, registrando problemas 
 
 ---
 
->  **O nome atual é UNBLOCK, mas em meu coração como um fiel maguinho, para sempre será [CodeMotion].**
+>  **...nome atual é UNBLOCK, mas em meu coração como um fiel maguinho, para sempre será ["CodeMotion"] ...**
