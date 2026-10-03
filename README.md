@@ -50,4 +50,4 @@ A proposta é manter o conteúdo em constante evolução, registrando problemas 
 
 ---
 
->  **...nome atual é UNBLOCK, mas em meu coração como um fiel maguinho, para sempre será ["CodeMotion"] ...**
+>  **...nome atual é UNBLOCK, mas em meu coração como um fiel maguinho, para sempre será "CodeMotion" ...**
