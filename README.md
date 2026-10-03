@@ -34,7 +34,7 @@ Minha primeira experiência competitiva nessa área ocorreu com a participação
 
 Registro dos estudos e atividades voltados à resolução de problemas computacionais, algoritmos e desenvolvimento de raciocínio lógico.
 
-Esta seção inclui, entre outras atividades, exercícios realizados na plataforma **Beecrowd**, organizados de acordo com os conteúdos e técnicas utilizados.
+Esta seção inclui, entre outras atividades, exercícios realizados na plataforma **Beecrowd** e especificamente em C99, organizados de acordo com os conteúdos e técnicas utilizados.
 
 → [Acessar Programação Competitiva](./Programação%20Competitiva)
 
