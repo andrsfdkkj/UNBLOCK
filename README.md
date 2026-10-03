@@ -4,7 +4,7 @@
 
 > **Formação, competição e disseminação de conhecimento em tecnologia.**
 
-Este repositório reúne parte da minha trajetória dentro da **UNBLOCK**, projeto de extensão vinculado à **Universidade de Brasília (UnB)**, voltado à formação de estudantes para competições acadêmicas e tecnológicas, além da disseminação de conhecimentos relacionados à programação, robótica e resolução de problemas.
+Este repositório reúne parte da minha trajetória dentro da **UNBLOCK(e falecida CodeMotion)**, projeto de extensão vinculado à **Universidade de Brasília (UnB)**, voltado à formação de estudantes para competições acadêmicas e tecnológicas, além da disseminação de conhecimentos relacionados à programação, robótica e resolução de problemas.
 
 A iniciativa é conduzida por **[Modesto](https://github.com/Leppyzin)**, estudante de Engenharia da Computação, na frente de **Programação Competitiva**, e por **Marcos**, estudante de Engenharia Mecatrônica, na frente de **Robótica Competitiva**. Ambos são estudantes da **[UnB — Campus Darcy Ribeiro](https://unb.br/campi/darcy-ribeiro)** e atuam na formação e orientação dos participantes.
 
