@@ -1,4 +1,4 @@
-## ATIVIDADE 01
+## Atividade 01
 
 ```
 #include <stdio.h>
