@@ -19,3 +19,5 @@ int main() {
     return 0;
 }
 
+//pesquisar "O'que é Fibonnaci no yt pra explicar melhor amanhã ou hj sla
+
