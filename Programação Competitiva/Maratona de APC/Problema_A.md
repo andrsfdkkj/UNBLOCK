@@ -15,3 +15,5 @@ Imprima um único inteiro: o total de calouros esperando o Transminhocão.
 | 3 5 | 8 | 
 | 1 1 | 2 |
 | 1000 1000 | 2000 |
+
+# Resposta
